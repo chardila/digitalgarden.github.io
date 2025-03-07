@@ -4,4 +4,4 @@
 
 # Segunda Nota
 
-Este es un elnace a la primera [[Welcome\|Welcome]]
+Este es un elnace a la primera[[Primera Nota\|Primera Nota]]
