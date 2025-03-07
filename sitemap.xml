@@ -3,17 +3,22 @@
     
         <url>
             <loc>/404/</loc>
-            <lastmod>2025-03-07T22:15:41.013Z</lastmod>
+            <lastmod>2025-03-07T22:16:43.239Z</lastmod>
         </url>
     
         <url>
             <loc>/primera-nota/</loc>
-            <lastmod>2025-03-07T22:15:41.015Z</lastmod>
+            <lastmod>2025-03-07T22:16:43.242Z</lastmod>
         </url>
     
         <url>
             <loc>/segunda-nota/</loc>
-            <lastmod>2025-03-07T22:15:41.015Z</lastmod>
+            <lastmod>2025-03-07T22:16:43.242Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tercera-nota/</loc>
+            <lastmod>2025-03-07T22:16:43.242Z</lastmod>
         </url>
     
 </urlset>
