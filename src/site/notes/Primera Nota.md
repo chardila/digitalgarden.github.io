@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primera-nota/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/primera-nota/"}
 ---
 
 # Primera Nota
