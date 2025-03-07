@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primera-nota/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/primera-nota/","dgHomeLink":true}
 ---
 
 # Primera Nota
