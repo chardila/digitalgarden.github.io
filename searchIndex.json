@@ -1,7 +1,7 @@
 [
 {
 		"title": "Primera Nota",
-		"date":"Fri Mar 07 2025 22:16:43 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Mar 07 2025 22:20:01 GMT+0000 (Coordinated Universal Time)",
 		"url":"/primera-nota/",
 		"content": "Primera Nota\nEsto es sola una prueba <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/segunda-nota/\">Segunda Nota</a>",
 		"tags": [ "note"]
@@ -9,15 +9,23 @@
 
 {
 		"title": "Segunda Nota",
-		"date":"Fri Mar 07 2025 22:16:43 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Mar 07 2025 22:20:01 GMT+0000 (Coordinated Universal Time)",
 		"url":"/segunda-nota/",
 		"content": "Segunda Nota\nEste es un elnace a la primera<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/primera-nota/\">Primera Nota</a>",
 		"tags": [ "note"]
 },
 
 {
+		"title": "notes",
+		"date":"Fri Mar 07 2025 22:20:01 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/primera-nota/\">Primera Nota</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/segunda-nota/\">Segunda Nota</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/tercera-nota/\">tercera nota</a>",
+		"tags": [ "note","gardenEntry"]
+},
+
+{
 		"title": "tercera nota",
-		"date":"Fri Mar 07 2025 22:16:43 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Mar 07 2025 22:20:01 GMT+0000 (Coordinated Universal Time)",
 		"url":"/tercera-nota/",
 		"content": "Tercera Nota\nEstas son las notan anteriores:\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/primera-nota/\">Primera Nota</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/segunda-nota/\">Segunda Nota</a>",
 		"tags": [ "note"]
