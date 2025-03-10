@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bienvenidos-a-mi-jardin-digital/","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T17:37:08.319-05:00"}
+{"dg-publish":true,"permalink":"/bienvenidos-a-mi-jardin-digital/","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T17:40:01.437-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -14,7 +14,8 @@ Por lo demás, sumérgete en mis escritos actuales o echa un vistazo a algunas p
 
 Toma un café, relájate y disfruta :)
 
-## Notas
+### Notes
+
 - [[Templates/Album Template\|Album Template]]
 - [[Templates/App Template\|App Template]]
 - [[Templates/Board Game Template\|Board Game Template]]
