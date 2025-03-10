@@ -25,9 +25,9 @@ Un **Jardín Digital** es una forma de organizar y compartir conocimientos en l�
 
 ### Notes
 
-- [[Bienvenidos a mi Jardín Digital\|Bienvenidos a mi Jardín Digital]]
-- [[Logística del Sitio\|Logística del Sitio]]
-- [[Acerca De Carlos Ardila\|Acerca De Carlos Ardila]]
+- [[Notes/Bienvenidos a mi Jardín Digital\|Bienvenidos a mi Jardín Digital]]
+- [[Notes/Logística del Sitio\|Logística del Sitio]]
+- [[Notes/Acerca De Carlos Ardila\|Acerca De Carlos Ardila]]
 - [[Daily/2025-03-10 Hoy nace mi Jardín Digital\|2025-03-10 Hoy nace mi Jardín Digital]]
 
 { .block-language-dataview}
