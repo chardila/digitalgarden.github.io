@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bienvenidos-a-mi-jardin-digital/","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T17:36:04.571-05:00"}
+{"dg-publish":true,"permalink":"/bienvenidos-a-mi-jardin-digital/","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T17:37:08.319-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -10,11 +10,11 @@ Este proyecto personal comenzó con mi curiosidad por experimentar como posicion
 
 Si eres nuevo, te recomiendo encarecidamente revisar las páginas de **[[Logística del Sitio\|Logística del Sitio]]** y **[[Acerca De Carlos Ardila\|Acerca De Carlos Ardila]]** para obtener más información. Habrá algunos enlaces "muertos"; estos corresponden a publicaciones o páginas que aún no he publicado.
 
-Por lo demás, sumérgete en mis lecturas actuales o echa un vistazo a algunas publicaciones recientes.
+Por lo demás, sumérgete en mis escritos actuales o echa un vistazo a algunas publicaciones recientes.
 
 Toma un café, relájate y disfruta :)
 
-
+## Notas
 - [[Templates/Album Template\|Album Template]]
 - [[Templates/App Template\|App Template]]
 - [[Templates/Board Game Template\|Board Game Template]]
