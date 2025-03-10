@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T18:48:55.398-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T18:52:56.820-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -12,7 +12,7 @@ Si eres nuevo, te recomiendo encarecidamente revisar las siguientes páginas:
 
 | File                                                                          | Title                           | Last Modified            |
 | ----------------------------------------------------------------------------- | ------------------------------- | ------------------------ |
-| [[Notes/Bienvenidos a mi Jardín Digital\|Bienvenidos a mi Jardín Digital]] | Bienvenidos a mi Jardín Digital | 6:48 PM - March 10, 2025 |
+| [[Notes/Bienvenidos a mi Jardín Digital\|Bienvenidos a mi Jardín Digital]] | Bienvenidos a mi Jardín Digital | 6:52 PM - March 10, 2025 |
 | [[Notes/Acerca De Carlos Ardila\|Acerca De Carlos Ardila]]                 | Acerca De Carlos Ardila         | 6:05 PM - March 10, 2025 |
 | [[Notes/Logística del Sitio\|Logística del Sitio]]                         | Logística del Sitio             | 6:05 PM - March 10, 2025 |
 
