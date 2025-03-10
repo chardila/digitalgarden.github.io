@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bienvenidos-a-mi-jardin-digital/","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T17:42:21.187-05:00"}
+{"dg-publish":true,"permalink":"/bienvenidos-a-mi-jardin-digital/","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T17:48:21.124-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -21,5 +21,55 @@ Toma un café, relájate y disfruta :)
 
 ### Notes
 
+- [[Templates/Actor Template\|Actor Template]]
+- [[Templates/Album Template\|Album Template]]
+- [[Templates/App Template\|App Template]]
+- [[Templates/Author Template\|Author Template]]
+- [[Templates/Backlinks Template\|Backlinks Template]]
+- [[Templates/Board Game Template\|Board Game Template]]
+- [[Templates/Book Template\|Book Template]]
+- [[Templates/City Template\|City Template]]
+- [[Templates/Clipping Template\|Clipping Template]]
+- [[Templates/Coffee Template\|Coffee Template]]
+- [[Templates/Company Template\|Company Template]]
+- [[Templates/Conference Session Template\|Conference Session Template]]
+- [[Templates/Conference Template\|Conference Template]]
+- [[Templates/Contact Template\|Contact Template]]
+- [[Templates/Director Template\|Director Template]]
+- [[Templates/Email Template\|Email Template]]
+- [[Templates/Event Template\|Event Template]]
+- [[Templates/Evergreen Template\|Evergreen Template]]
+- [[Templates/Food Template\|Food Template]]
+- [[Templates/Game Studio Template\|Game Studio Template]]
+- [[Templates/Genre Template\|Genre Template]]
+- [[Templates/Hosting Template\|Hosting Template]]
+- [[Templates/Job Interview Template\|Job Interview Template]]
+- [[Templates/Journal Template\|Journal Template]]
+- [[Templates/Map Template\|Map Template]]
+- [[Templates/Meditation Template\|Meditation Template]]
+- [[Templates/Meeting Template\|Meeting Template]]
+- [[Templates/Meeting Type Template\|Meeting Type Template]]
+- [[Templates/Meetings List Template\|Meetings List Template]]
+- [[Templates/Monthly Note Template\|Monthly Note Template]]
+- [[Templates/Movie Genre Template\|Movie Genre Template]]
+- [[Templates/Movie Template\|Movie Template]]
+- [[Templates/Music Genre Template\|Music Genre Template]]
+- [[Templates/Musician Template\|Musician Template]]
+- [[Templates/People Template\|People Template]]
+- [[Templates/People Type Template\|People Type Template]]
+- [[Templates/Place Template\|Place Template]]
+- [[Templates/Place Type Template\|Place Type Template]]
+- [[Templates/Podcast Episode Template\|Podcast Episode Template]]
+- [[Templates/Podcast Template\|Podcast Template]]
+- [[Templates/Post Template\|Post Template]]
+- [[Templates/Product Template\|Product Template]]
+- [[Templates/Product Type Template\|Product Type Template]]
+- [[Templates/Project Template\|Project Template]]
+- [[Templates/Quote Template\|Quote Template]]
+- [[Templates/Real Estate Template\|Real Estate Template]]
+- [[Templates/Recent Entries Template\|Recent Entries Template]]
+- [[Templates/Recipe Template\|Recipe Template]]
+- [[Templates/Restaurant Template\|Restaurant Template]]
+- [[Templates/Show Episode Template\|Show Episode Template]]
 
 { .block-language-dataview}
