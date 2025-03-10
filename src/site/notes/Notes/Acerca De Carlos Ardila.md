@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/acerca-de-carlos-ardila/","tags":["page"],"created":"2025-03-10T12:30:21.607-05:00","updated":"2025-03-10T17:48:06.968-05:00"}
+{"dg-publish":true,"permalink":"/notes/acerca-de-carlos-ardila/","created":"2025-03-10T12:30:21.607-05:00","updated":"2025-03-10T18:05:40.796-05:00"}
 ---
 
 # Acerca de Carlos Ardila
