@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logistica-del-sitio/","tags":["page"],"created":"2025-03-10T11:19:27.379-05:00","updated":"2025-03-10T14:57:11.395-05:00"}
+{"dg-publish":true,"permalink":"/logistica-del-sitio/","tags":["page"],"created":"2025-03-10T11:19:27.379-05:00","updated":"2025-03-10T17:48:27.067-05:00"}
 ---
 
 # Logística del Sitio
