@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T18:05:04.650-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T18:12:20.296-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -18,3 +18,10 @@ para obtener más información. Habrá algunos enlaces "muertos"; estos correspo
 Por lo demás, sumérgete en mis escritos actuales o echa un vistazo a algunas publicaciones recientes.
 
 Toma un café, relájate y disfruta :)
+
+## Posts
+
+| Title | Status | Published |
+| ----- | ------ | --------- |
+
+{ .block-language-dataview}

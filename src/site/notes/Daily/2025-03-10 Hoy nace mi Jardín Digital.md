@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily/2025-03-10-hoy-nace-mi-jardin-digital/","tags":["daily"],"created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-10T18:00:24.769-05:00"}
+{"dg-publish":true,"permalink":"/daily/2025-03-10-hoy-nace-mi-jardin-digital/","created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-10T18:11:21.663-05:00"}
 ---
 
 
