@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T20:39:07.250-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T20:45:54.192-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
