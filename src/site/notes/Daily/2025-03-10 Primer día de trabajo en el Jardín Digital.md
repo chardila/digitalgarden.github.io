@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/daily/2025-03-10-primer-dia-de-trabajo-en-el-jardin-digital/","title":"Primer día de trabajo en el Jardín Digital","tags":["daily","notes"],"created":"2025-03-10T21:54:16.624-05:00","updated":"2025-03-10T22:22:14.018-05:00"}
+{"dg-publish":true,"permalink":"/daily/2025-03-10-primer-dia-de-trabajo-en-el-jardin-digital/","title":"Primer día de trabajo en el Jardín Digital","tags":["daily","notes"],"created":"2025-03-10T21:54:16.624-05:00","updated":"2025-03-10T22:27:30.500-05:00"}
 ---
 
 
-Este día fue muy productivo y pude poner en funcionamiento, al menos de una forma básica mi jardín digital. Falta mucho pero este es un buen comienzo, sobre todo que veo que es factible poner en funcionamiento el sitio sin tener que hacer pagos mensuales de hosting, y aunque es una tarea que requiere habilidades técnicas que no son para cualquier persona, en realidad no es tan difícil. Intentaré en los próximos días crear un nota con las instrucciones de como crear un sitio similar a este.
+Este día fue muy productivo y pude poner en funcionamiento, al menos de una forma básica mi [[Notes/Jardin Digital\|Jardin Digital]]. Falta mucho pero este es un buen comienzo, sobre todo que veo que es factible poner en funcionamiento el sitio sin tener que hacer pagos mensuales de hosting, y aunque es una tarea que requiere habilidades técnicas que no son para cualquier persona, en realidad no es tan difícil. Intentaré en los próximos días crear un nota con las instrucciones de como crear un sitio similar a este.
 Aun existen algunos temas que no me funcionan bien:
 - Poner backlinks al final de cada nota. Funciona poner los backlinks en el sidebar pero prefiero que queden en el pie de las notas.
 - Tampoco he encontrado como centrar el título del sitio, es algo relacionado con los estilos pero no es algo que sea imposible de hacer, es mas de tiempo ya que no soy experto en CSS
