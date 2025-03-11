@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/categories/board-games/","tags":["categories"],"created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-10T22:55:12.522-05:00"}
+{"dg-publish":true,"permalink":"/categories/board-games/","title":"Boardgames","tags":["categories"],"created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-11T08:33:53.905-05:00"}
 ---
+
+
 
 
 | Game                    | Rating | Last             |
