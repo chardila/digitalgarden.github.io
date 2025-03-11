@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["pages","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T22:34:53.266-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["pages","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T22:48:04.874-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -15,4 +15,4 @@ Si eres nuevo, te recomiendo encarecidamente revisar las siguientes páginas:
 
 para obtener más información de este [[Notes/Jardin Digital\|Jardin Digital]]. Habrá algunos enlaces "muertos"; estos corresponden a publicaciones o páginas que aún no he publicado.
 
-Por lo demás, revisa mis publicaciones recientes, puede que encuentres algo que te interese, tomate un café, relájate y disfruta :)
+Por lo demás, revisa mis publicaciones recientes, puede que encuentres algo que te interese ya que escribo de [[Categories/Board games\|Board games]], [[Categories/Trips\|Trips]], [[Categories/Places\|Places]], [[Categories/Movies\|Movies]], [[Categories/Events\|Events]], en fin, de todo un poco, así tomate un café, relájate y disfruta :)
