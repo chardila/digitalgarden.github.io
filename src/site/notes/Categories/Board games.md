@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categories/board-games/","title":"Boardgames","tags":["categories"],"created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-11T10:42:52.469-05:00"}
+{"dg-publish":true,"permalink":"/categories/board-games/","title":"Boardgames","tags":["categories"],"created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-11T10:46:27.560-05:00"}
 ---
 
 Desde hace muchos años, los juegos de mesa modernos han sido una de mis grandes aficiones. Actualmente, mi colección supera los 100 juegos, lo que hace necesario mantenerlos organizados y catalogados. Para ello, utilizo desde hace tiempo **[BoardGameGeek](https://www.boardgamegeek.com/)** (BGG), la referencia absoluta en el mundo de los juegos de mesa. Además, complemento su uso con algunas aplicaciones que considero muy útiles para gestionar estadísticas y otros aspectos relacionados con mi colección.
@@ -23,7 +23,6 @@ Como muchos padres aficionados a los juegos de mesa, sueño con que, cuando crez
 ![geekgroup-tool-playgrid-2024.png](/img/user/Attachment/geekgroup-tool-playgrid-2024.png)
 
 ## Playback de mi historia de sesiones de juegos 
-![playback.gif](/img/user/Attachment/playback.gif)
 [Vier mi Playback Page](https://playback.geekgroup.app/cardila)
 
 
