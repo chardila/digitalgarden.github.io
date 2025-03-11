@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T18:52:56.820-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","tags":["gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T19:30:54.876-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -10,13 +10,8 @@ Este proyecto personal comenzó con mi curiosidad por experimentar como posicion
 
 Si eres nuevo, te recomiendo encarecidamente revisar las siguientes páginas:
 
-| File                                                                          | Title                           | Last Modified            |
-| ----------------------------------------------------------------------------- | ------------------------------- | ------------------------ |
-| [[Notes/Bienvenidos a mi Jardín Digital\|Bienvenidos a mi Jardín Digital]] | Bienvenidos a mi Jardín Digital | 6:52 PM - March 10, 2025 |
-| [[Notes/Acerca De Carlos Ardila\|Acerca De Carlos Ardila]]                 | Acerca De Carlos Ardila         | 6:05 PM - March 10, 2025 |
-| [[Notes/Logística del Sitio\|Logística del Sitio]]                         | Logística del Sitio             | 6:05 PM - March 10, 2025 |
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Título</span><span class="dataview small-text">3</span></th><th class="table-view-th"><span>Última Modificación</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Bienvenidos a mi Jardín Digital</span></td><td>7:30 PM - March 10, 2025</td></tr><tr><td><span>Acerca De Carlos Ardila</span></td><td>6:05 PM - March 10, 2025</td></tr><tr><td><span>Logística del Sitio</span></td><td>6:05 PM - March 10, 2025</td></tr></tbody></table></div>
 
-{ .block-language-dataview}
 
 para obtener más información. Habrá algunos enlaces "muertos"; estos corresponden a publicaciones o páginas que aún no he publicado.
 
@@ -26,8 +21,4 @@ Toma un café, relájate y disfruta :)
 
 ## Posts
 
-| File                                                                                      | Title                                 | Last Modified            |
-| ----------------------------------------------------------------------------------------- | ------------------------------------- | ------------------------ |
-| [[Daily/2025-03-10 Hoy nace mi Jardín Digital\|2025-03-10 Hoy nace mi Jardín Digital]] | 2025-03-10 Hoy nace mi Jardín Digital | 6:38 PM - March 10, 2025 |
-
-{ .block-language-dataview}
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Título</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Última Modificación</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>2025-03-10 Hoy nace mi Jardín Digital</span></td><td>6:38 PM - March 10, 2025</td></tr></tbody></table></div>
