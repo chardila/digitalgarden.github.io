@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["page","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T21:04:56.574-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T21:26:03.385-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -10,7 +10,8 @@ Este proyecto personal comenzó con mi curiosidad por experimentar como posicion
 
 Si eres nuevo, te recomiendo encarecidamente revisar las siguientes páginas:
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Título</span></th><th class="table-view-th"><span>Última Modificación</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Logística del Sitio.md" data-href="Notes/Logística del Sitio.md" href="Notes/Logística del Sitio.md" class="internal-link" target="_blank" rel="noopener nofollow">Logística del Sitio</a></span></td><td>8:47 PM - March 10, 2025</td></tr><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Acerca De Carlos Ardila.md" data-href="Notes/Acerca De Carlos Ardila.md" href="Notes/Acerca De Carlos Ardila.md" class="internal-link" target="_blank" rel="noopener nofollow">Acerca De Carlos Ardila</a></span></td><td>8:47 PM - March 10, 2025</td></tr></tbody></table></div>
+[Acerca De Carlos Ardila](Acerca%20De%20Carlos%20Ardila.md)
+[Logística del Sitio](Logística%20del%20Sitio.md)
 
 
 
