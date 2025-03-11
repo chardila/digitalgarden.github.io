@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/coup/","tags":["board-games","references"],"created":"2025-03-10T22:35:12.437-05:00","updated":"2025-03-10T22:42:54.264-05:00"}
+{"dg-publish":true,"permalink":"/notes/coup/","tags":["board-games","references"],"created":"2025-03-10T22:35:12.437-05:00","updated":"2025-03-10T22:56:24.401-05:00"}
 ---
 
 # Coup
-
-
 
 ## **Descripción**
 Eres el cabeza de familia en una ciudad-estado italiana. La ciudad está controlada por una corte débil y corrupta repleta de intrigas. Intentas controlar la ciudad manipulando, embaucando y abriéndote camino hasta el poder. Tu objetivo es destruir la influencia de todas las demás familias, forzandolos a exiliarse. Sólo una familia sobrevivirá.
