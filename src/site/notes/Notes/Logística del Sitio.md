@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/logistica-del-sitio/","title":"Logística del Sitio","tags":["pages"],"created":"2025-03-10T11:19:27.379-05:00","updated":"2025-03-10T21:53:22.942-05:00"}
+{"dg-publish":true,"permalink":"/notes/logistica-del-sitio/","title":"Logística del Sitio","tags":["pages"],"created":"2025-03-10T11:19:27.379-05:00","updated":"2025-03-10T22:23:21.044-05:00"}
 ---
 
 # Logística del Sitio
 
-Este sitio está y estará siempre en continua construcción por lo que es de esperar que algunas veces haya enlaces que no funcionen, haré mi mayor esfuerzo para que no suceda pero es algo que puede pasar.
+Este [[Notes/Jardin Digital\|Jardin Digital]]  está y estará siempre en continua construcción por lo que es de esperar que algunas veces haya enlaces que no funcionen, haré mi mayor esfuerzo para que no suceda pero es algo que puede pasar.
 
 ## Reglas Personales de organización del sitio
 
