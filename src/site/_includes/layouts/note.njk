@@ -76,6 +76,16 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% endfor %}
     </main>
 
+    {% if page.backlinks %}
+    <h2>Linked Mentions</h2>
+    <ul>
+        {% for backlink in page.backlinks %}
+        <li><a href="{{ backlink.url }}">{{ backlink.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
       {%include "components/sidebar.njk"%}
     {% endif %}
