@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/acerca-de-carlos-ardila/","title":"Acerca de Carlos Ardila","tags":["page"],"created":"2025-03-10T12:30:21.607-05:00","updated":"2025-03-10T20:47:28.464-05:00"}
+{"dg-publish":true,"permalink":"/notes/acerca-de-carlos-ardila/","title":"Acerca de Carlos Ardila","tags":["page"],"created":"2025-03-10T12:30:21.607-05:00","updated":"2025-03-10T21:42:17.213-05:00"}
 ---
 
 # Acerca de Carlos Ardila
@@ -12,3 +12,4 @@ Dentro de lo mas reciente que tengo esta el reinicio del blog usando como hostin
 
 
 
+{ .block-language-dataview}

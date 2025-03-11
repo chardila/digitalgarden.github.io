@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/logistica-del-sitio/","title":"Logística del Sitio","tags":["page"],"created":"2025-03-10T11:19:27.379-05:00","updated":"2025-03-10T21:39:16.639-05:00"}
+{"dg-publish":true,"permalink":"/notes/logistica-del-sitio/","title":"Logística del Sitio","tags":["page"],"created":"2025-03-10T11:19:27.379-05:00","updated":"2025-03-10T21:42:38.644-05:00"}
 ---
 
 # Logística del Sitio
@@ -27,3 +27,6 @@ Existen dos Folders que si se usan:
 - **References** que contiene cosas externas, como libros, juegos de mesa, películas.
 - **Clippings** donde guardo cosas que otros escribieron, como referencias a otros artículos.
 
+
+
+{ .block-language-dataview}

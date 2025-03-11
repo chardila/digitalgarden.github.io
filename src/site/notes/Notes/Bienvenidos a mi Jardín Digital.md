@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T21:39:01.810-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T21:41:33.723-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -22,5 +22,8 @@ Por lo demás, sumérgete en mis escritos actuales o echa un vistazo a algunas p
 Toma un café, relájate y disfruta :)
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Título</span></th><th class="table-view-th"><span>Última Modificación</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Jardin Digital.md" data-href="Notes/Jardin Digital.md" href="Notes/Jardin Digital.md" class="internal-link" target="_blank" rel="noopener nofollow">Jardin Digital</a></span></td><td>8:47 PM - March 10, 2025</td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Título</span></th><th class="table-view-th"><span>Última Modificación</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="Notes/Jardin Digital.md" data-href="Notes/Jardin Digital.md" href="Notes/Jardin Digital.md" class="internal-link" target="_blank" rel="noopener nofollow">Jardin Digital</a></span></td><td>9:42 PM - March 10, 2025</td></tr></tbody></table></div>
 
+
+
+{ .block-language-dataview}
