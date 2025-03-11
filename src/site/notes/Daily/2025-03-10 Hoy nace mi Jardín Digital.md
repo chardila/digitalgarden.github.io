@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily/2025-03-10-hoy-nace-mi-jardin-digital/","title":"Hoy nace mi Jardín Digital","created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-10T18:38:10.460-05:00"}
+{"dg-publish":true,"permalink":"/daily/2025-03-10-hoy-nace-mi-jardin-digital/","title":"Hoy nace mi Jardín Digital","created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-10T19:38:31.063-05:00"}
 ---
 
 
@@ -16,8 +16,8 @@ Un **Jardín Digital** es una forma de organizar y compartir conocimientos en l�
 ### Herramientas populares para crear un Jardín Digital:
 
 - **Obsidian** (con GitHub Pages, este es el caso de este sitio)
-- **Logseq**
+- **Notion**
 - **TiddlyWiki**
-- **Zettlr**
+- **Obsidian Publish**
 - **Quartz (basado en Hugo)**
 

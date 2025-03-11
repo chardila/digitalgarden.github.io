@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/acerca-de-carlos-ardila/","created":"2025-03-10T12:30:21.607-05:00","updated":"2025-03-10T18:05:40.796-05:00"}
+{"dg-publish":true,"permalink":"/notes/acerca-de-carlos-ardila/","created":"2025-03-10T12:30:21.607-05:00","updated":"2025-03-10T20:08:30.079-05:00"}
 ---
 
 # Acerca de Carlos Ardila
@@ -9,3 +9,6 @@ Soy **Carlos Ardila**, nací en Bucaramanga, Santander (Colombia), criado a punt
 Soy un apasionado de muchas cosas entre otras, la ciencia, la tecnología, los sistemas, la programación, la música, el cine, la fotografía. Cada día trae su afán y últimamente no he podido escribir mucho en el blog, pero espero que esto cambie pronto.
 
 Dentro de lo mas reciente que tengo esta el reinicio del blog usando como hosting a Github Pages y Obsidian como editor, es un trabajo en progreso pero me ha gustado como va quedando. Progresivamente traere a este nuevo lugar algunos de los post históricos del antiguo blog hosteado en wordpress, igual sigue estando vivo en[[ https://blogcardila.wordpress.com/\| https://blogcardila.wordpress.com/]]
+
+
+
