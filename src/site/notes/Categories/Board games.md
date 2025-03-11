@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categories/board-games/","title":"Boardgames","tags":["categories"],"created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-11T10:19:21.547-05:00"}
+{"dg-publish":true,"permalink":"/categories/board-games/","title":"Boardgames","tags":["categories"],"created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-11T10:42:52.469-05:00"}
 ---
 
 Desde hace muchos años, los juegos de mesa modernos han sido una de mis grandes aficiones. Actualmente, mi colección supera los 100 juegos, lo que hace necesario mantenerlos organizados y catalogados. Para ello, utilizo desde hace tiempo **[BoardGameGeek](https://www.boardgamegeek.com/)** (BGG), la referencia absoluta en el mundo de los juegos de mesa. Además, complemento su uso con algunas aplicaciones que considero muy útiles para gestionar estadísticas y otros aspectos relacionados con mi colección.
@@ -17,10 +17,16 @@ Con hijos pequeños, encontrar tiempo para jugar es un desafío, y ya no tengo l
 
 Como muchos padres aficionados a los juegos de mesa, sueño con que, cuando crezcan, se conviertan en mis compañeros de juego. Sin embargo, solo el tiempo dirá si eso sucede o si toman otros caminos.
 
-## Estadisticas de 2024
+## Estadísticas de 2024
 ![geekgroup-tool-heatmap-2024.png](/img/user/Attachment/geekgroup-tool-heatmap-2024.png)
 
 ![geekgroup-tool-playgrid-2024.png](/img/user/Attachment/geekgroup-tool-playgrid-2024.png)
+
+## Playback de mi historia de sesiones de juegos 
+![playback.gif](/img/user/Attachment/playback.gif)
+[Vier mi Playback Page](https://playback.geekgroup.app/cardila)
+
+
 
 ## Notas sobre juegos de mesa
 | Game                    | Rating | Last             |
