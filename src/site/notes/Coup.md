@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coup/","tags":["board-games","references"],"created":"2025-03-10T22:35:12.437-05:00","updated":"2025-03-10T22:42:09.642-05:00"}
+{"dg-publish":true,"permalink":"/coup/","tags":["board-games","references"],"created":"2025-03-10T22:35:12.437-05:00","updated":"2025-03-10T22:42:54.264-05:00"}
 ---
 
 # Coup
