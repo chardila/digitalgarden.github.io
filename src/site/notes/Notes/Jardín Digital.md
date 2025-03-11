@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/jardin-digital/","title":"Jardín Digital","created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-10T20:20:22.276-05:00"}
+{"dg-publish":true,"permalink":"/notes/jardin-digital/","title":"Jardín Digital","tags":["note"],"created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-10T20:47:50.392-05:00"}
 ---
 
 
