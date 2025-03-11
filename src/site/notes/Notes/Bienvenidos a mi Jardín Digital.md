@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T21:26:03.385-05:00"}
+{"dg-publish":true,"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","title":"Bienvenidos a mi Jardín Digital","tags":["page","gardenEntry"],"created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T21:33:47.417-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
@@ -10,8 +10,8 @@ Este proyecto personal comenzó con mi curiosidad por experimentar como posicion
 
 Si eres nuevo, te recomiendo encarecidamente revisar las siguientes páginas:
 
-[Acerca De Carlos Ardila](Acerca%20De%20Carlos%20Ardila.md)
-[Logística del Sitio](Logística%20del%20Sitio.md)
+[Acerca De Carlos Ardila](/notes/acerca-de-carlos-ardila/)
+[Logística del Sitio](notes/logística-del-sitio/)
 
 
 
