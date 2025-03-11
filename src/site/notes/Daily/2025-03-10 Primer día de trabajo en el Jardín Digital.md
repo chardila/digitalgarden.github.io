@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/daily/2025-03-10-primer-dia-de-trabajo-en-el-jardin-digital/","title":"Primer día de trabajo en el Jardín Digital","tags":["daily","notes"],"created":"2025-03-10T21:54:16.624-05:00","updated":"2025-03-10T22:27:30.500-05:00"}
+{"dg-publish":true,"permalink":"/daily/2025-03-10-primer-dia-de-trabajo-en-el-jardin-digital/","title":"Primer día de trabajo en el Jardín Digital","tags":["daily","notes"],"created":"2025-03-10T21:54:16.624-05:00","updated":"2025-03-10T22:27:58.252-05:00"}
 ---
 
 
@@ -7,10 +7,5 @@ Este día fue muy productivo y pude poner en funcionamiento, al menos de una for
 Aun existen algunos temas que no me funcionan bien:
 - Poner backlinks al final de cada nota. Funciona poner los backlinks en el sidebar pero prefiero que queden en el pie de las notas.
 - Tampoco he encontrado como centrar el título del sitio, es algo relacionado con los estilos pero no es algo que sea imposible de hacer, es mas de tiempo ya que no soy experto en CSS
-
-## Notes
-
-
-{ .block-language-dataview}
 
 
