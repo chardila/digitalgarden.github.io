@@ -52,7 +52,7 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: "notes"  # Replace with your Cloudflare Pages project name
           directory: "./dist"  # Adjust if your output directory is different
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}        
+          gitHubToken: ${{ secrets.GH_TOKEN }}        
         
       # - name: Setup Pages
       #   uses: actions/configure-pages@v5
