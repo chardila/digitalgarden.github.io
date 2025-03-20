@@ -1,11 +1,9 @@
 ---
-{"title":"Juego de Mesa: Paris: La Cité de la Lumière (2019)","date":"2024-03-07","tags":["board-games"],"category":["[[Board games]]"],"dg-publish":true,"permalink":"/notes/paris-la-cite-de-la-lumiere-2019/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.926-05:00","updated":"2025-03-20T17:57:40.319-05:00"}
+{"title":"Juego de Mesa: Paris: La Cité de la Lumière (2019)","date":"2024-03-07","tags":["board-games"],"category":["[[Board games]]"],"dg-publish":true,"permalink":"/notes/paris-la-cite-de-la-lumiere-2019/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.926-05:00","updated":"2025-03-20T18:01:48.745-05:00"}
 ---
 
 
-# Juego de Mesa: Paris: La Cité de la Lumière (2019)
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200241935@N06/53573589110/" title="Paris: La Cité de la Lumière (2019)"><img src="https://live.staticflickr.com/65535/53573589110_0197663dfc_k.jpg" width="2048" height="2048" alt="Paris: La Cité de la Lumière (2019)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200241935@N06/53573589110" title="Paris: La Cité de la Lumière (2019)"><img src="https://live.staticflickr.com/65535/53573589110_b69fc947ce_z.jpg" width="640" height="640" alt="Paris: La Cité de la Lumière (2019)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Descripción 
 **Paris: La Cité de la Lumière** es un juego de mesa que transporta a los jugadores a la majestuosa ciudad de París durante la Belle Époque. Diseñado en 2019 por José Antonio Abascal, el juego combina estrategia, planificación y construcción de edificios para ofrecer una experiencia envolvente en la que los participantes compiten por la creación de una Paris deslumbrante.
