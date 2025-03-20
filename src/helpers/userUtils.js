@@ -1,7 +1,10 @@
-// Put your computations here.
 
 function userComputed(data) {
-  return {};
+	return {
+		navLinks: [
+			{ name: 'Notas', path: '/' },
+		],
+	};
 }
 
 exports.userComputed = userComputed;
