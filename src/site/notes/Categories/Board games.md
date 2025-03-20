@@ -20,7 +20,6 @@ Como muchos padres aficionados a los juegos de mesa, sueño con que, cuando crez
 ## Notas sobre juegos de mesa
 | Game                                                                                | Rating | Last             |
 | ----------------------------------------------------------------------------------- | ------ | ---------------- |
-| [[Daily/2024-12-31\|2024-12-31]]                                                 | \-     | \-               |
 | [[Notes/Coup\|Coup]]                                                             | 7      | January 26, 2015 |
 | [[Notes/Paris La cite de la Lumiere (2019)\|Paris La cite de la Lumiere (2019)]] | 7.3    | \-               |
 | [[Notes/Labyrinth The Card Game (2000)\|Labyrinth The Card Game (2000)]]         | 5.6    | \-               |
