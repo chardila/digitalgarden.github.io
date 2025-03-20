@@ -1,5 +1,5 @@
 ---
-{"title":"Juego de Mesa: Paris: La Cité de la Lumière (2019)","date":"2024-03-07","tags":["board-games"],"category":["[[Board games]]"],"dg-publish":true,"permalink":"/notes/paris-la-cite-de-la-lumiere-2019/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.926-05:00","updated":"2025-03-20T18:01:48.745-05:00"}
+{"title":"Paris: La Cité de la Lumière (2019)","date":"2024-03-07","tags":["board-games","references"],"dg-publish":true,"category":["[[Board games]]","[[Posts]]"],"permalink":"/notes/paris-la-cite-de-la-lumiere-2019/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.926-05:00","updated":"2025-03-20T18:04:41.094-05:00"}
 ---
 
 
