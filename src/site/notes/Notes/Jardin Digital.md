@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/jardin-digital/","title":"Jardín Digital","tags":["notes"],"created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-10T23:29:05.470-05:00"}
+{"dg-publish":true,"date":"2025-03-10","category":["[[Posts]]"],"title":"Jardín Digital","tags":["notes"],"cssclasses":["wide"],"permalink":"/notes/jardin-digital/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-10T17:27:44.619-05:00","updated":"2025-03-20T18:15:34.813-05:00"}
 ---
 
 
