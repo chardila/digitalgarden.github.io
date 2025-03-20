@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/categories/board-games/","title":"Boardgames","tags":["categories"],"created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-11T11:18:01.610-05:00"}
+{"tags":["categories"],"dg-publish":true,"title":"Boardgames","category":["[[Topics]]"],"permalink":"/categories/board-games/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-01-02T16:46:06.000-05:00","updated":"2025-03-11T11:18:01.610-05:00"}
 ---
 
 Desde hace muchos años, los juegos de mesa modernos han sido una de mis grandes aficiones. Actualmente, mi colección supera los 100 juegos, lo que hace necesario mantenerlos organizados y catalogados. Para ello, utilizo desde hace tiempo **[BoardGameGeek](https://www.boardgamegeek.com/)** (BGG), la referencia absoluta en el mundo de los juegos de mesa. Además, complemento su uso con algunas aplicaciones que considero muy útiles para gestionar estadísticas y otros aspectos relacionados con mi colección.
@@ -28,8 +28,9 @@ Como muchos padres aficionados a los juegos de mesa, sueño con que, cuando crez
 
 
 ## Notas sobre juegos de mesa
-| Game                    | Rating | Last             |
-| ----------------------- | ------ | ---------------- |
-| [[Notes/Coup\|Coup]] | 7      | January 26, 2015 |
+| Game                                                                                | Rating | Last             |
+| ----------------------------------------------------------------------------------- | ------ | ---------------- |
+| [[Notes/Coup\|Coup]]                                                             | 7      | January 26, 2015 |
+| [[Notes/Paris La cite de la Lumiere (2019)\|Paris La cite de la Lumiere (2019)]] | \-     | \-               |
 
 { .block-language-dataview}
