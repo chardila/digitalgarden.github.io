@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"date":"2025-03-10","category":["[[Posts]]"],"title":"Bienvenidos a mi Jardín Digital","tags":["pages","gardenEntry"],"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T22:48:04.874-05:00"}
+{"dg-publish":true,"dg-home":true,"date":"2025-03-10","category":["[[Posts]]"],"title":"Bienvenidos a mi Jardín Digital","tags":["pages","gardenEntry","gardenEntry"],"permalink":"/notes/bienvenidos-a-mi-jardin-digital/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-10T08:08:23.222-05:00","updated":"2025-03-10T22:48:04.874-05:00"}
 ---
 
 # Bienvenidos a mi Jardín Digital
