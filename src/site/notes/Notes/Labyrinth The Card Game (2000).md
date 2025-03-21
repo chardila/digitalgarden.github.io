@@ -1,5 +1,5 @@
 ---
-{"title":"Labyrinth: The Card Game (2000)","date":"2024-03-10","tags":["board-games","references"],"category":["[[Board games]]","[[Posts]]"],"dg-publish":true,"year":2000,"rating":5.6,"permalink":"/notes/labyrinth-the-card-game-2000/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.949-05:00","updated":"2025-03-21T09:05:35.511-05:00"}
+{"title":"Labyrinth: The Card Game (2000)","date":"2024-03-10","tags":["board-games","references"],"category":["[[Board games]]","[[Posts]]"],"dg-publish":true,"year":2000,"rating":5.6,"maker":"Ravensburger","permalink":"/notes/labyrinth-the-card-game-2000/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.949-05:00","updated":"2025-03-21T09:07:16.465-05:00"}
 ---
 
 
