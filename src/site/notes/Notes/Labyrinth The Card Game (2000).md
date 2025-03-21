@@ -1,5 +1,5 @@
 ---
-{"title":"Labyrinth: The Card Game (2000)","date":"2024-03-10","tags":["board-games","references"],"category":["[[Board games]]","[[Posts]]"],"dg-publish":true,"year":2000,"rating":5.6,"permalink":"/notes/labyrinth-the-card-game-2000/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.949-05:00","updated":"2025-03-20T18:16:57.530-05:00"}
+{"title":"Labyrinth: The Card Game (2000)","date":"2024-03-10","tags":["board-games","references"],"category":["[[Board games]]","[[Posts]]"],"dg-publish":true,"year":2000,"rating":5.6,"permalink":"/notes/labyrinth-the-card-game-2000/","dgPassFrontmatter":true,"noteIcon":"default","created":"2025-03-14T13:22:17.949-05:00","updated":"2025-03-21T09:05:35.511-05:00"}
 ---
 
 
@@ -8,15 +8,15 @@
 **Nro. de Jugadores:** 2-6 Jugadores
 **Tiempo de Juego:** 30 min
 **Edad Recomendada: ** 7+
-**Complejidad segun BGG:** 1.22/5
+**Complejidad según BGG:** 1.22/5
 
 Información sacada de BB ([https://boardgamegeek.com/boardgame/533/labyrinth-card-game/credits](https://boardgamegeek.com/boardgame/533/labyrinth-card-game/credits))
 
-## Descripcion
+## Descripción
 Coloca cartas cuadradas del laberinto que muestran símbolos de fantasía como un grifo, dragón, pergamino, llave, gemas, etc. Cuando un símbolo en la carta que acabas de colocar está conectado directamente a uno o más símbolos idénticos en otras cartas, puedes tomar esas cartas (pero no la que acabas de colocar), siempre que el laberinto no se desconecte. Solo tienes 2 cartas en mano y robas después de colocar. El juego termina cuando la pila de robo se acaba, el que más cartas haya recogido gana. Es un juego infantil, pero lo suficientemente divertido como para ser un relleno para adultos.
 
 ## Opinión
-Tarde de un lento domingo y los niños estan ocupados jugando solos, asi que decido sacar este juego, que recibimos como regalo de una familio de amigos y que sus chicos ya estan grandes y no lo usan :)
+Tarde de un lento domingo y los niños están ocupados jugando solos, asi que decido sacar este juego, que recibimos como regalo de una familia de amigos y que sus chicos ya estan grandes y no lo usan :)
 
 Este es un juego muy fácil de aprender, y realmente no tiene nada de la profundidad de Carcassonne, pero sigue siendo divertido.
 
@@ -38,7 +38,7 @@ Creo que lo que me gusta es que es muy rápido y divertido. Es un excelente fill
 
 Bueno, le vendrían bien un par de reglas opcionales y mejores explicaciones en el manual.
 
-La configuración es lo que probablemente cambiemos en la próxima partida. Ya que se configura aleatoriamente, generalmente viene con un montón de callejones sin salida que no se pueden jugar, y eso significa que a veces esos tesoros NUNCA se recolectan, fuera de que mi sico-rigidez me impide pensar que al colocar las 4 cartas iniciales al azar, algunos de los caminos no se conecten con nada.
+La configuración es lo que probablemente cambiemos en la próxima partida. Ya que se configura aleatoriamente, generalmente viene con un montón de callejones sin salida que no se pueden jugar, y eso significa que a veces esos tesoros NUNCA se recolectan, fuera de que mi psico rigidez me impide pensar que al colocar las 4 cartas iniciales al azar, algunos de los caminos no se conecten con nada.
 
 Entonces, me gusta el juego. Realmente no puedo decir por qué, aparte de que es un juego rápido, pequeño y fácil de jugar. Lo puedo llevar a cualquier lugar ya que es muy pequeño, y funciona para cualquier público, desde niños hasta adultos.
 
