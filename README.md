@@ -1,6 +1,9 @@
-# Digital Obsidian Garden de Carlos Ardila
-Este repo contiene el Digital Garden creado con Obsidian y que junto con el plugin [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden), permite desplegar mi Jardin Digital en el sitio web http://notas.cardila.com
+# Digital Obsidian Garden
+This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
+See the README in the plugin repo for information on how to set it up.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
 
 ---
-## Documentacion de como hacer esto
-Documentación del plugin se encuentra en: [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+## Docs
+Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
